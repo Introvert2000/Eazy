@@ -1,3 +1,9 @@
+this is a very basic frontend website made using Nextjs 
+taking inspiration from my dbms project i only made a few components
+
+Had to reupload the project due to some issues in the previous code 
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
